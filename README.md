@@ -12,6 +12,5 @@ Methodology: I used Llama2 model using transformers package for the question ans
 
 Limitations: Due to lack of access to GPUs and resource constraints, Llama3 could not be implemented. Llama3 could have performed even better on the given data for the QnA task. I used the Llama model with the least number of parameters and implemented LoRA to manage the limitations. Furthermore, only 0.1 epochs were run for the model, because when I tried running it for one epoch then the disk limit would exceed and it would crash. If the resource constraints are not the issue then more number of parameters can be considered for training which will further improve the model performance on our data.
 
-Experience of working with Kensho Benchmarks: I wasnt able to submit due to some technical error
-
+Experience of working with Kensho Benchmarks: Experience of working with Kensho is good, it is easy to use and convenient.
 
